@@ -1,2 +1,3 @@
 name="ayo"
-age=24
+age=24 
+is_married=False
